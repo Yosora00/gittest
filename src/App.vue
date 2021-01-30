@@ -1,8 +1,5 @@
 <template>
-  <div id="app">
-    <h1>Hello, world!</h1>
-    <button>test</button>
-  </div>
+  <div id="app"></div>
 </template>
 
 <style>
