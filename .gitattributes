@@ -1,2 +1,2 @@
-*.swift linguist language=javascript
-*.docx linguist language=javascript
+*.swift linguist-language=javascript
+*.docx linguist-language=javascript
